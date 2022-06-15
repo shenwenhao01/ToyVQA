@@ -1,4 +1,4 @@
-# NaiveVQA: MindSpore & PyTorch Implementations of a Strong VQA Baseline
+# ToyVQA: MindSpore & PyTorch Implementations of Up-Down VQA Model
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=shenwenhao01.ToyVQA)
 
@@ -154,4 +154,4 @@ We provide `evaluatie.ipynb` to test/evaluate the model. Open the notebook, and 
 
 This repository is heavily built upon KaihuaTang's repository [VQA2.0 Recent Approachs 2018](https://github.com/KaihuaTang/VQA2.0-Recent-Approachs-2018.pytorch).
 
-Since the original dataset has some mistakes, we borrow the code for data cleaning from [NaiveVQA](https://github.com/vtu81/NaiveVQA).
+Since the original dataset has some mistakes, we borrow the code of data cleaning from [NaiveVQA](https://github.com/vtu81/NaiveVQA).
